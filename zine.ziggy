@@ -1,6 +1,6 @@
 .zine_version = "0.12.0",
 .site = .simple(.{
-    .title = "Welcome to Zine!",
+    .title = "Cubyz blog posts by Wunka",
     .host_url = "https://example.com",
     .url_path_prefix = "Blog",
     .content_dir_path = "content",
