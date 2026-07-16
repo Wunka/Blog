@@ -1,0 +1,18 @@
+---
+.title = "Devlog - 2026",
+.date = .date("2025-07-16T00:00:00"),
+.layout = "devlog.shtml",
+---
+[]($section.id('about'))
+## About this Devlog
+
+This page contains short devlogs about the current devleopment of cubyz
+
+> You can [subscribe to this page via RSS]($link.page('devlog').alternative('rss')).
+>
+> This page lists entries for the current year, for past entries consult the
+[devlog archive](/devlog/).
+
+
+## [First Devlog]($section.id("2026-07-16T00:00:00"))
+Hello to the first devlog on here! This is just a test devlog
