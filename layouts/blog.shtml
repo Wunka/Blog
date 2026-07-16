@@ -18,7 +18,7 @@
 		<div :loop="$page.subpages()">
 			<span class="date" :text="$loop.it.date.format('January 02, 2006')"></span>
 			<div :loop="$loop.it.authors">
-				<span :text="$loop.it"></span>
+				<span :text="$loop.it"></span><span :if="$loop.last.not()">,</span>
 			</div>
 			<a class="title" href="$loop.it.link()">
 				<h3 :text="$loop.it.title"></h3>
