@@ -1,6 +1,6 @@
 ---
 .title = "Devlog - 2026",
-.date = .date("2025-07-16T00:00:00"),
+.date = .date("2026-07-16T00:00:00"),
 .layout = "devlog.shtml",
 ---
 []($section.id('about'))
